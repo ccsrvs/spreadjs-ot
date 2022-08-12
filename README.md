@@ -1,1 +1,1 @@
-Attempt at Operational Transformation support for SpreadJS (15.4) to integrate with ShareDB
+Attempt at Operational Transformation support for SpreadJS (15.1.4) to integrate with ShareDB
